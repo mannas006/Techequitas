@@ -2,6 +2,8 @@
 
 A modern, responsive website for TechEquitas, a non-profit organization dedicated to collecting old technology and donating it to those in need.
 
+> **Build Status**: Fixed autoprefixer dependency issue
+
 ## 🌟 Features
 
 ### Pages & Sections
