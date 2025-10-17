@@ -10,10 +10,6 @@ const nextConfig = {
       },
     ],
   },
-  // Explicitly disable PostCSS processing to avoid autoprefixer issues
-  experimental: {
-    cssChunking: 'strict',
-  },
 }
 
 module.exports = nextConfig
