@@ -77,6 +77,8 @@ export default function HomePage() {
 
   return (
     <div className="min-h-screen">
+      {/* Debug element to test CSS loading */}
+      <div className="debug-css-loaded fixed top-0 right-0 z-50 text-xs">CSS Debug</div>
       {/* Hero Section */}
       <section className="bg-gradient-to-br from-primary-50 via-white to-primary-100 pt-16 pb-12 sm:pt-20 sm:pb-16 lg:pt-24 lg:pb-20">
         <div className="max-w-7xl mx-auto px-3 sm:px-6 lg:px-8">
